@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HellDesk</string>
+
+    <string name="zapros">Детали Запроса</string>
+    <string name="name">Название</string>
+    <string name="fio">Ф.И.О.</string>
+    <string name="details">Описание</string>
+    <string name="zaprosStatus">Статус заявки</string>
+    <string name="oz">Оформление запроса</string>
+    <string name="status">Срочность</string>
+    <string name="date">Время</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Номер телефона</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Войдите</string>
+
+
+</resources>

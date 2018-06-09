@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основное -->
+    <color name="colorPrimary">#010101</color>
+    <color name="colorPrimaryDark">#1c1c1e</color>
+
+    <!-- Навигация -->
+    <color name="bgNav">#1c1c1e</color>
+    <color name="bgNavSelectedIcon">#424242</color>
+    <color name="bgNavSelectedText">#FAFAFA</color>
+    <color name="bgNavText">#FFFFFF</color>
+    <color name="iconMain">#fd3524</color>
+    <color name="iconItem1">#fa9210</color>
+    <color name="iconItem2">#fa9210</color>
+    <color name="iconSettings">#1c95ff</color>
+    <color name="iconContacts">#4dd863</color>
+
+    <!-- Свои введения bg. -->
+    <color name="bgToolbar">#1c1c1e</color>
+    <color name="bgMain">#010101</color>
+    <color name="bgTitle">#1c1c1e</color>
+
+    <!-- Текст на переключателе  -->
+    <color name="textOff">#8D6E63</color>
+    <color name="textOn">#26C6DA</color>
+
+</resources>
